@@ -15,10 +15,8 @@ img{
 
     
 }
-img:hover{
-    background-color: lightgreen;
-    transform: scale(0.8);
-}
+
+
 .div1{
     position: absolute;
     top: -130px;
@@ -38,16 +36,8 @@ img:hover{
    right: -470px;
    top: -130px;
    width: 600px;
-  
+}
 
-}
-.p2{
-    position: absolute;
-    margin-top:-300px;
-    margin-left:5px ;
-    color: white;
-    font-size: 1rem;
-}
 .div3{
     position: absolute;
    bottom: -150px; 
@@ -55,14 +45,6 @@ img:hover{
    width: 600px;
 }
 
-.p3{
-    position: absolute;
-    margin-top: -300px;
-    color: white;
-    margin-left:5px ;
-
-
-}
 .div4{
     position: absolute;
     bottom:-150px;
@@ -71,23 +53,10 @@ img:hover{
   
 
 }
-.p4{
-    position: absolute;
-    margin-top: -300px;
-    color: white;
-    margin-left:5px ;
-}
+
 .div5{
     position: absolute;
-    /* top: 200px;
-    left:250px ; */
     width: 600px;
     transform: translate(17vw,28vh);
-    /* width: 600px;padding: 210px 250px; */
 }
-.p5{
-    position: absolute;
-    margin-top: -300px;
-    color: white;
-    margin-left:5px ;
-}
+
