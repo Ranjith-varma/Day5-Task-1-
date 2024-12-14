@@ -1,0 +1,84 @@
+.full{
+    border: 5px solid black;
+    width: 50%;
+    height: 700px;
+   margin:10% 30% 10% 30%;
+   background-color: lightseagreen;
+   position: relative;
+}
+img{
+    width: 40%;
+    height: 300px;
+    border: 4px solid brown;
+    
+}
+.div1{
+    position: absolute;
+    margin-top: -130px;
+    margin-left: -110px;
+    width:600px;
+}
+.p1{
+    position: absolute;
+    margin-top:-300px;
+    margin-left:5px ;
+    color: white;
+    font-size: 1rem;
+}
+
+.div2{
+    position: absolute;
+   right: -470px;
+   top: -130px;
+   width: 600px;
+  
+
+}
+.p2{
+    position: absolute;
+    margin-top:-300px;
+    margin-left:5px ;
+    color: white;
+    font-size: 1rem;
+}
+.div3{
+    position: absolute;
+   bottom: -150px; 
+   margin-left: -110px;
+   width: 600px;
+}
+
+.p3{
+    position: absolute;
+    margin-top: -300px;
+    color: white;
+    margin-left:5px ;
+
+
+}
+.div4{
+    position: absolute;
+    bottom:-150px;
+    right: -470px;
+    width: 600px;
+  
+
+}
+.p4{
+    position: absolute;
+    margin-top: -300px;
+    color: white;
+    margin-left:5px ;
+}
+.div5{
+    position: absolute;
+    top: 200px;
+    left:250px ;
+    width: 600px;
+}
+.p5{
+    position: absolute;
+    margin-top: -300px;
+    color: white;
+    margin-left:5px ;
+}
